@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650310069415",
+    "firebase_url": "https://cool-predictions.firebaseio.com",
+    "project_id": "cool-predictions",
+    "storage_bucket": "cool-predictions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650310069415:android:65e9ab1d6763bd37",
+        "android_client_info": {
+          "package_name": "com.cool.predictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650310069415-em4h9ueumjc97m5usnj5483rrdeora76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cool.predictions",
+            "certificate_hash": "8fd37ce64e5b02297902e59cd3fdaa86873de0cf"
+          }
+        },
+        {
+          "client_id": "650310069415-gpsf7g0hh276n9a6oe9emutdov6g1q4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHUZSrLheGySke9grPPmSDYiMwqVn5FcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650310069415-gpsf7g0hh276n9a6oe9emutdov6g1q4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
